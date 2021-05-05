@@ -1,23 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    align: left
-    image: images/hero.svg
-    image_alt: Hero placeholder image
-    image_position: right
-    has_background: true
   - type: features_section
     title: Features
     features:
